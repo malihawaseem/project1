@@ -1,0 +1,243 @@
+body{
+    margin:0;
+    width:100vw;
+    height:100vh;
+    overflow-x:hidden;
+    padding:0;
+}
+.nav{
+    background-color: coral;
+    padding-bottom:12px;
+}
+.bo{
+    margin-top:1rem;
+}
+.tag{
+    padding-left:12rem !important;
+}
+.iglo{
+    margin-left:2rem;
+    font-size:23px;
+    color:white;
+}
+.back{
+    background-image: url('pic3.jpg');
+    opacity: 0.6;
+    width: 85rem !important;
+    height: 67vh;
+    position: no-repeat;
+}
+.tex{
+    color:orangered;
+    opacity: 1;
+}
+.info{
+    color:black;
+    font-size:17px;
+}
+.btn{
+    background: orangered !important;
+    color:white !important; 
+    padding:13px;
+}
+.det{
+    padding-top:6rem;
+    margin-left:2rem;
+}
+.men{
+    padding-top:1rem;
+    padding-left:38rem;
+    color:orange;
+}
+.pro{
+    font-size:2.4rem;
+}
+.tagg{
+    width:19rem !important;
+}
+.img{
+    width:18rem;
+    height:50vh;
+    border-radius: 100% !important;
+    margin-left:19rem;
+
+}
+.cont{
+    border-left:2px solid blue;
+}
+.nam{
+    color:blue;
+    margin-left:1rem;
+}
+.parag{
+    margin-left:1rem;
+}
+.hea{
+    width:21rem !important;
+    height:21vh !important;
+    margin-left:37rem;
+    padding-top:4rem;
+    color:orangered;
+    margin-bottom:4rem;
+}
+.set2{
+    width:21rem;
+    height:10rem;
+}
+.set3{
+    width:19rem;
+    height:26vh;
+    margin-left:1.5rem;
+}
+.row1{
+    width:20rem !important;
+    height:24vh !important;
+}
+.row2{
+    margin-top:0.5rem;
+    width:21rem !important;
+    height:21vh !important;
+}
+.row3{
+    margin-top:0.5rem;
+    width:19rem !important;
+    height:24vh !important;
+    margin-left:1.5rem;
+}
+.row4{
+    width:20rem !important;
+    height:24vh !important;
+}
+.row5{
+    width: 21rem !important;
+    height: 24vh !important;
+    margin-left: 1rem !important;
+}
+.row6{
+    margin-top: 0.5rem;
+    width: 19rem !important;
+    height: 21vh !important;
+    margin-left:1.5rem;
+}
+.blog{
+    width:21rem;
+    height:21vh;
+    color:orange;
+}
+.des{
+    font-size:3rem;
+    margin-left:30rem;
+    margin-top:3rem !important ;
+    margin-bottom:1rem !important;
+}
+.prot{
+    margin-top:2rem !important;
+}
+.tgs{
+    width:21rem !important;
+    height:21vh;
+}
+.post{
+    color:orange;
+    padding-left:2px;
+}
+.las{
+    padding-left:23px;
+}
+.meas{
+    width:21rem;
+}
+.read{
+    padding-left:12px;
+    color:blue;
+    border-top:1px solid blue;
+}
+.pro1{
+    font-size:2rem;
+}
+.snam{
+    margin-left:25rem;
+    color:grey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+@media screen and (max-width:375px){
+    .back{
+        width: 23rem !important;
+    }
+    .det{
+        width:19rem !important;
+        padding-left:1px !important;
+    }
+    .hea{
+    width:12rem !important;
+    height:12vh !important;
+    margin-left:4rem;
+    padding-top:2rem;
+    color:orangered;
+    margin-bottom:1rem;
+
+    }
+    .row2{
+        margin-top:0.5rem;
+        width:22.4rem !important;
+        height:21vh !important;
+    }
+    .set1{
+        margin-top:2rem !important;
+        width:22.4rem !important;
+    }
+    .row1{
+        width:22.4rem !important;
+        height:21vh !important;
+        margin-top:1rem;
+    }
+    .set3{
+        width:22.4rem !important;
+        margin-top:1rem;
+    }
+    .img{
+        width: 15rem;
+        height: 38vh;
+        border-radius: 100% !important;
+        margin-left: 2rem;
+    
+    }
+    .set2{
+        width:22.4rem !important;
+        margin-top:1rem;
+    }
+    .parag{
+        width:17rem;
+        height:22vh;
+    }
+    .row3{
+        width:22.4rem !important;
+        margin-top:1rem;
+    }
+    .row4{
+        width:22.4rem !important;
+        margin-top:1rem;
+    }
+    .row6{
+        width:22rem !important;
+        margin-top:1rem;
+    }
+    .row5{
+        margin-left:0.1px !important;
+        width:22.4rem !important;
+        margin-top:1rem;
+
+    }
+    .men{
+        padding-top:2px;
+        padding-left:2rem;
+        color:orange;
+    }
+    .pro{
+        margin-top:22rem !important;
+    }
+    .pro1{
+        margin-top:2rem !important;
+         font-size:2rem;
+    }
+}
